@@ -537,7 +537,7 @@
     - id: ComputerCargoRequestSecurityFlatpack # Goobstation
     - id: WantedListCartridge
     - id: DrinkHosFlask
-    - id: HeadOfSecurityMeleeCase # Omu
+    - id: ClothingBeltSheathHeadOfSecurityFilled # Goobstation - security revamp
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable

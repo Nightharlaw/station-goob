@@ -112,12 +112,12 @@
   - MagazinePistolIncendiary
   - MagazinePistolSubMachineGunIncendiary
   - MagazineBoxShotgunIncendiaryHighCaliber # Goobstation
-  - MagazineLightRifleIncendiary
+  # - MagazineLightRifleIncendiary # Goobstation - remove light rifle
   - SpeedLoaderMagnumIncendiary
   - MagazineShotgunIncendiary
   - MagazineBoxPistolIncendiary
   - MagazineBoxMagnumIncendiary
-  - MagazineBoxLightRifleIncendiary
+  # - MagazineBoxLightRifleIncendiary # Goobstation - remove light rifle
   - MagazineBoxRifleIncendiary
   # Goobstation R&D Console rework start
   position: 2,2
@@ -181,11 +181,11 @@
   - MagazineRifleUranium
   - MagazinePistolUranium
   - MagazinePistolSubMachineGunUranium
-  - MagazineLightRifleUranium
+  # - MagazineLightRifleUranium # Goobstation - remove light rifle
   - SpeedLoaderMagnumUranium
   - MagazineBoxPistolUranium
   - MagazineBoxMagnumUranium
-  - MagazineBoxLightRifleUranium
+  # - MagazineBoxLightRifleUranium # Goobstation - remove light rifle
   - MagazineBoxRifleUranium
   - BoxShotgunUranium
   - MagazineBoxShotgunUraniumHighCaliber # Goobstation
